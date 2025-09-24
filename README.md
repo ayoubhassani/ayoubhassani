@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @d3v4pp
 - 👀 I’m interested in javascript projects
 - 🌱 I have a website [https://d3v4pp.fr](https://d3v4pp.fr)
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me by email to : ayoub@d3v4pp.fr
 
 <!---
